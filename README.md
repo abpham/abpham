@@ -1,25 +1,19 @@
-![Fun Little Banner](/images/banner.png)
+![Fun Little Banner](./images/banner.png)
 
-### Hi there 👋, what's up!
+## Hi there 👋, I'm Abby 👩🏻‍💻💜
 
-### About
+---
 
--  **Learning :** Python :zap:	
--  **Languages :** Java, C++ 💻
--  **Hobbies :** Music & Video Games :headphones:
--  **Technologies :** MongoDB, Mongoose, Angular.js, Express.js, Node.js, React Native, JUnit, Antlr, Redis, Mockito 
+### Tech Stack
 
-<!--
-**abpham/abpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Languages :** Java, C++ 🔊 Haskell, Python, Javascript, HTML, CSS 🔉
+-  **Technologies :** MongoDB, Mongoose, Angular.js, Express.js, Node.js, React Native, JUnit, Antlr, Redis, Mockito 💻
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: abbypham9301@gmail.com
+- 🎮 Hobbies: Music + Video Games
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I can bend my left thumb backwards into a 90 degree angle!
+
+---
