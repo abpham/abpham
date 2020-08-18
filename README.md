@@ -1,5 +1,3 @@
-![Fun Little Banner](./images/banner.png)
-
 ## Hi there 👋, I'm Abby 👩🏻‍💻💜
 
 ---
