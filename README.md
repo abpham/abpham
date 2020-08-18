@@ -2,7 +2,12 @@
 
 ### Hi there 👋, what's up!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abpham&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### About
+
+-  **Learning :** Python :zap:	
+-  **Languages :** Java, C++ 💻
+-  **Hobbies :** Music & Video Games :headphones:
+-  **Technologies :** MongoDB, Mongoose, Angular.js, Express.js, Node.js, React Native, JUnit, Antlr, Redis, Mockito 
 
 <!--
 **abpham/abpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
