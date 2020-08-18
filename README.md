@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Abby :)
+![Fun Little Banner](/images/banner.png)
+
+### Hi there 👋, what's up!
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abpham&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **abpham/abpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
