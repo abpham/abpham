@@ -1,9 +1,4 @@
 
-<!-- banner image -->
-<div align="center">
-  <img src="https://github.com/abpham/abpham/blob/master/images/banner2.png" alt="abby pham" />
-</div>
-
 ## 👋 Hello there, I'm Abby 👩🏻‍💻💜
 
 ---
