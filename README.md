@@ -5,8 +5,8 @@
 
 ### Tech Stack
 
--  **Languages :** Java, C++ 🔊 Haskell, Python, Javascript, HTML, CSS 🔉
--  **Technologies :** MongoDB, Mongoose, Angular.js, Express.js, Node.js, React Native, JUnit, Antlr, Redis, Mockito 💻
+-  **Languages :** Java, C++, Python, HTML, CSS, JavaScript
+-  **Technologies :** MongoDB, Angular, Express, Node, React Native, JUnit, Redis, Mockito 💻
 
 ### About Me
 
