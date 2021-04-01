@@ -1,19 +1,19 @@
 
-## 👋 Hello there, I'm Abby 👩🏻‍💻💜
+## 👋 Hello, I'm Abby 👩🏻‍💻💜
 
 ---
 
 ### Tech Stack
 
--  **Languages :** Java, C++, Python, HTML, CSS, JavaScript
--  **Technologies :** MongoDB, Angular, Express, Node, React Native, JUnit, Redis, Mockito 💻
+-  **Languages :** Java, C++, Python
+-  **Technologies :** MongoDB, Angular, Express, Node, React, JUnit, Redis, Mockito
 
 ### About Me
 
 - 📫 How to reach me: abbypham9301@gmail.com
-- 🎮 Hobbies: Music + Video Games
+- 🎮 Hobbies: Music (Paramore is my favorite) + video games
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I can bend my left thumb backwards into a 90 degree angle!
+- ⚡ Fun fact: I can bend my left thumb backwards into a 90 degree angle :)
 
 ### GitHub Stats
 
