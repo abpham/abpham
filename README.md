@@ -5,8 +5,8 @@
 
 ### Tech Stack
 
--  **Languages :** Python, Java, C++, JavaScript
--  **Technologies :** Power Platform (Power Apps/Automate/Portals), Node, React, Redis
+-  **Languages :** Python, Java, C#, JavaScript
+-  **Technologies :** Microsoft Fabric, Azure Synapse, Power Platform (Power Apps/Automate/Portals), Node, React, Redis
 
 ### About Me
 
